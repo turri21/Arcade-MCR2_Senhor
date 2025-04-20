@@ -1,3 +1,8 @@
+-=(MCR2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # Midway MCR2 port for MiSTer
 
 [Original readme](README_orig.txt) (mostly irrelevant to MiSTer)
