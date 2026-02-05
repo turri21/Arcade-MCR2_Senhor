@@ -1,3 +1,10 @@
+-=(MCR2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: SD signals disabled in Arcade-MCR2.sv to fix audio crackling.
+___
+
 # Midway MCR2 port for MiSTer
 
 [Original readme](README_orig.txt) (mostly irrelevant to MiSTer)
